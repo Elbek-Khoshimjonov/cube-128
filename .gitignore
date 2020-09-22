@@ -1,0 +1,9 @@
+*.o
+*.a
+*.dll
+*.so
+*.so.*
+*.bc
+
+cubescan.c
+cubeparse.c
